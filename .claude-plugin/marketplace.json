@@ -1,0 +1,11 @@
+{
+  "name": "team-skills",
+  "owner": { "name": "Kursverwaltung-Team" },
+  "plugins": [
+    {
+      "name": "kursverwaltung-skills",
+      "source": "./plugins/kursverwaltung-skills",
+      "description": "Haus-Skills der Kursverwaltung: kr (vanilla-Rails-Konventionen nach CLAUDE.md)"
+    }
+  ]
+}
