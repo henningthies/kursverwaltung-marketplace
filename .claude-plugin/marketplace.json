@@ -5,7 +5,7 @@
     {
       "name": "kursverwaltung-skills",
       "source": "./plugins/kursverwaltung-skills",
-      "description": "Haus-Skills der Kursverwaltung: kr (vanilla-Rails-Konventionen nach CLAUDE.md)"
+      "description": "Haus-Skills der Kursverwaltung: feature-plan, feature-build, feature-review (Feature-Factory), kr (vanilla-Rails-Konventionen), grill-me, screenshot"
     }
   ]
 }

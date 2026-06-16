@@ -26,7 +26,7 @@ gegen eine dokumentierte Regel verstößt oder sie gefährdet.
 
 0. **Demo (Hello World).** 
 <diff>
-    !`.claude/skills/kr/scripts/hello_world.sh`
+    !`"${CLAUDE_PLUGIN_ROOT}/skills/kr/scripts/hello_world.sh"`
 </diff>
 
 
